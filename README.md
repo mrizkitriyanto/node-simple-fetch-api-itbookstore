@@ -11,5 +11,5 @@ npm install
 npm run start-prod
 
 # Development
-npm run stard-dev
+npm run start-dev
 ```
