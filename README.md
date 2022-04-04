@@ -22,19 +22,19 @@ npm install -g pm2
 
 ### Start
 ```shell
-pm2 start npm --name "openmusic-api" -- run "start-prod"
+pm2 start npm --name "itbookstore-api" -- run "start-prod"
 ```
 
 ### Other Command
 ```shell
 # Restart
-pm2 restart openmusic-api
+pm2 restart itbookstore-api
 
 # Stop
-pm2 stop openmusic-api
+pm2 stop itbookstore-api
 
 # Start
-pm2 start openmusic-api
+pm2 start itbookstore-api
 ```
 
 <br><br>
